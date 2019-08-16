@@ -21,7 +21,7 @@ future times to improve driving abilities of car in future.
 
 * **Udacity** : In this folder we have written code for Simulator provided by udacity for their nanodegree program. To get simulator <a href='https://github.com/udacity/self-driving-car-sim'>Click Here</a>
 * **NVIDIA_final** : In this folder we have written code to simulate steering angle by only providing realworld fron dashcam image.
-* **AirSim** : In this folder we tried to simulate Self-driving car simulation in <a href='https://github.com/Microsoft/AirSim'>AirSim</a> Simulator
+* **AirSim** : In this folder we tried to simulate Self-driving car simulation in <a href='https://github.com/Microsoft/AirSim'>AirSim</a> Simulator. We didn't have very high end gpu so main issue that we faced was collecting data, we spent majority of time getting data on this simulator so if you want the data we have collected you can get it [here](https://drive.google.com/open?id=1b-PmV_qLVuvfNUh4GULNn_pEu6sjXZyU)
 
 **Python Libraries Required**
 * Tensorflow
